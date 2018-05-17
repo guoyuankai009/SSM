@@ -1,5 +1,3 @@
-# SSM
-springboot springmvc mybatis druid
 # 目标管理系统(基于企业钉钉)
 
 ### 开发环境
